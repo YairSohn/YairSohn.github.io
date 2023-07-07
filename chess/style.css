@@ -1,0 +1,28 @@
+p{
+    font-size:16px;
+    font-family: 'Century Gothic';
+    color:#3F301D;
+}
+
+ol{
+    font-size:16px;
+    font-family: 'Century Gothic';
+    color:#3F301D;
+}
+
+h1{
+    font-size:32px;
+    font-family:'Century Gothic';
+    color:#3F301D;
+}
+
+h2{
+    font-size:32px;
+    font-family:'Century Gothic';
+    color:#3F301D;
+}
+
+
+body {
+    background-color: #EFDECD;
+  }
